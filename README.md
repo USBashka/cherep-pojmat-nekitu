@@ -3,3 +3,5 @@ Little rythm game about [Boh Chërnih Chiripov](https://svb.fandom.com/ru/wiki/%
 
 | **[☞ Play](https://usbashka.itch.io/cherep-find-nekit)** |
 |---|
+
+![image](https://user-images.githubusercontent.com/51191280/202906415-f0c897df-874e-4437-8101-75b385cfee24.png)
